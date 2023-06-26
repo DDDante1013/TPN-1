@@ -1,1 +1,51 @@
-# TPN-1
+# **<span style="font-family:font-family: 'Pangolin', cursive; font-size:2em;"><span style = "color:#3F472B"> .WILD LIFE. </span>**
+___
+### VENTA Y ALQUILER DE HERRAMIENTAS Y MAQUINARIA PARA LA CONSTRUCCION 
+Esta pagina sera dedicada a la venta de equipamiento para acampar y disfrutar de la vida al aire libre, sera orientado a profesionales del acampe como asi tambien para principiantes, podran encontrar todas las herramientas necesarias para iniciarse en la vida de silvestre, como asi tambien encontrar recomendaciones de lugares, equipos minimos e indispensables a llevar, rutas de trekking, etc.
+
+**-El siguiente es un listado del equipamiento basico**
+
+- Carpas 
+    - Tipo Canadiense
+    - Tipo iglu
+    - Tipo nepal
+- Mochilas
+    - 20 Lts
+    - 30 Lts
+    - 40 Lts
+    - Camels
+- Bolsa de dormir
+- Manta termica
+- Herramientas de mano
+    - Mini hacha
+    - Mini Pala
+    - Sol de Noche
+- Termo
+- Calentador a Gas
+
+
+**-Elementos que no pueden faltar en una mochila**
+
+- Botiquin 
+    - vendas
+    - gasas
+    - antibioticos
+    - desinfectante
+- cuchillo
+- linterna
+- muda ropa
+- lentes sol
+- Repelente
+- Cantimplora 
+- Ropa Termica
+
+### **<span style="font-family:font-family: 'Pangolin', cursive; font-size:2em;"><span style = "color:#332B47"> .TIPS. </span>**
+> Preparativos
+
+> En el lugar
+
+> Vuelta a casa
+
+### **<span style="font-family:font-family: 'Pangolin', cursive; font-size:2em;"><span style = "color:#332B47"> .VISITAR. </span>**
+
+AQUI ENCONTRARAS RECOMENDACIONES Y EXPERIENCIAS DE DISTINTOS USUARIOS, DE DIVERSOS LUGARES PARA VISITAR, ACAMPANDO, HACIENDO TREKKING, MEJORES VISUALES, MAPAS, ETC, ETC ETC.
