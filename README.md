@@ -1,9 +1,13 @@
-# **<span style="font-family:font-family: 'Pangolin', cursive; font-size:2em;"><span style = "color:#3F472B"> .WILD LIFE. </span>**
-___
-### VENTA Y ALQUILER DE HERRAMIENTAS Y MAQUINARIA PARA LA CONSTRUCCION 
-Esta pagina sera dedicada a la venta de equipamiento para acampar y disfrutar de la vida al aire libre, sera orientado a profesionales del acampe como asi tambien para principiantes, podran encontrar todas las herramientas necesarias para iniciarse en la vida de silvestre, como asi tambien encontrar recomendaciones de lugares, equipos minimos e indispensables a llevar, rutas de trekking, etc.
+<img src="LOGO.PNG" width="200" height="200"/>
+ 
+ 
 
-Si sos mayor de edad podes aventurarte a vivir una vida lejos de las pantallas, alejado del ruido de la ciudad, donde podras encontrar paz, armonia y tranquilidad, para poder disfrutar de toda la naturaleza y su entorno, aca encontraras todo lo necesario, conocenos, entra y  compra con confianza, la naturaleza te espera.
+
+
+### VENTA Y ALQUILER DE EQUIPAMIENTO PARA ACAMPE 
+<span style="font-family:font-family: 'Pangolin', cursive; font-size:1.2em;"><span style = "color:BROWN"> Esta pagina sera dedicada a la venta de equipamiento para acampar y disfrutar de la vida al aire libre, sera orientado a profesionales del acampe como asi tambien para principiantes, podran encontrar todas las herramientas necesarias para iniciarse en la vida de silvestre, como asi tambien encontrar recomendaciones de lugares, equipos minimos e indispensables a llevar, rutas de trekking, etc.</span>
+
+<span style="font-family:font-family: 'Pangolin', cursive; font-size:1.2em;"><span style = "color:BROWN"> Si sos mayor de edad podes aventurarte a vivir una vida lejos de las pantallas, alejado del ruido de la ciudad, donde podras encontrar paz, armonia y tranquilidad, para poder disfrutar de toda la naturaleza y su entorno, aca encontraras todo lo necesario, conocenos, entra y  compra con confianza, la naturaleza te espera. </span>
 
 **-El siguiente es un listado del equipamiento basico**
 
