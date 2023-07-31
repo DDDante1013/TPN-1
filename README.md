@@ -4,7 +4,7 @@
 
 
 
-### VENTA Y ALQUILER DE EQUIPAMIENTO PARA ACAMPE 
+### VENTA DE CARPAS PARA ACAMPAR 
 <span style="font-family:font-family: 'Pangolin', cursive; font-size:1.2em;"><span style = "color:BROWN"> Esta pagina sera dedicada a la venta de equipamiento para acampar y disfrutar de la vida al aire libre, sera orientado a profesionales del acampe como asi tambien para principiantes, podran encontrar todas las herramientas necesarias para iniciarse en la vida de silvestre, como asi tambien encontrar recomendaciones de lugares, equipos minimos e indispensables a llevar, rutas de trekking, etc.</span>
 
 <span style="font-family:font-family: 'Pangolin', cursive; font-size:1.2em;"><span style = "color:BROWN"> Si sos mayor de edad podes aventurarte a vivir una vida lejos de las pantallas, alejado del ruido de la ciudad, donde podras encontrar paz, armonia y tranquilidad, para poder disfrutar de toda la naturaleza y su entorno, aca encontraras todo lo necesario, conocenos, entra y  compra con confianza, la naturaleza te espera. </span>
@@ -45,13 +45,12 @@
 - Cantimplora 
 - Ropa Termica
 
-### **<span style="font-family:font-family: 'Pangolin', cursive; font-size:2em;"><span style = "color:#332B47"> .TIPS. </span>**
-> Preparativos
+### **<span style="font-family:font-family: 'Pangolin', cursive; font-size:2em;"><span style = "color:#332B47"> .YA SABES LO QUE NECESITAS PERO LO PRIMERO Y PRINCIPAL ES UNA BUENA CARPA ASI QUE INGRESA A NUESTRO SITIO Y ESCOJE LA QUE MAS TE GUSTE Y ADAPTE A TUS NECESIDADES, TE ESPERAMOS. </span>**
 
-> En el lugar
+### **<span style="font-family:font-family: 'Pangolin', cursive; font-size:2em;"><span style = "color:#332B47"> . SI NO SABES CUAL ESLEGIR NO DUDES EN CONSULTARNOS Y TE ASESORAREMOS . </span>**
 
-> Vuelta a casa
 
-### **<span style="font-family:font-family: 'Pangolin', cursive; font-size:2em;"><span style = "color:#332B47"> .VISITAR. </span>**
-
-AQUI ENCONTRARAS RECOMENDACIONES Y EXPERIENCIAS DE DISTINTOS USUARIOS, DE DIVERSOS LUGARES PARA VISITAR, ACAMPANDO, HACIENDO TREKKING, MEJORES VISUALES, MAPAS, ETC, ETC ETC.
+ ### **<span style="font-family:font-family: 'Pangolin', cursive; font-size:2em;"><span style = "color:#718355"> . COLOR BACKGROUND </span>**
+### **<span style="font-family:font-family: 'Pangolin', cursive; font-size:2em;"><span style = " COLOR:rgb(7, 72, 72)"> . COLOR BOTONES </span>**
+;
+### **<span style="font-family:font-family: 'Pangolin', cursive; font-size:2em;"><span style = "color: rgb(19, 22, 13)"> . OTRO COLOR  </span>**
