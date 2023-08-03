@@ -1,30 +1,88 @@
 <!DOCTYPE html>
 <html lang="es">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Inicio</title>
-  </head>
-  <body>
-    <header class="header">
-      <div class="logo">
-        <img id="logo-img" src="LOGO.png" alt="logo">
-      </div>
-    <form>
-      <h1>Login</h1>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WILD LIFE/Inicio</title>
+  <link rel="stylesheet" href="style-inicio.css" type="text/css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Pangolin&family=Roboto:wght@100&display=swap" rel="stylesheet" />
+  <script src="https://kit.fontawesome.com/7b4fce43cc.js" crossorigin="anonymous"></script>
+  <script defer src="index.js"></script>
+</head>
+
+<body class="inicio-sesion">
+  <header class="header">
+    <div class="logo">
+      <img id="logo-img" src="LOGO2.png" alt="logo" />
+    </div>
+    <nav class="nav-bar">
+      <ul class="nav-link ">
+        <li class="item"><a href="#">Home</a></li>
+        <li class="item"><a href="#listaProductos">Productos</a></li>
+        <li class="item"><a href="#">Contacto</a></li>
+        <li class="item"><a href="#">Carrito</a></li>
+        <li class="item-button"><a href="INICIO.HTML">Crear Cuenta</a></li>
+        <li class="item-button-secondary"><a href="#">Iniciar sesion</a></li>
+      </ul>
+      <button class="button-menu"> <i class="fa-solid fa-bars"></i></button>
+    </nav>
+  </header>
+
+  <form class="login">
+    <div class="contenedor-inicio">
+
+
+      <h1 id="texto-inicio">Hola! Completa los datos para acceder a tu cuenta.</h1>
+
       <label for="userName">Nombre de Usuario</label>
       <input type="text" id="userName" />
       <label for="password">Contraseña</label>
       <input type="password" id="password" />
-      <div class="checkboxcontainer">
+      <div class="recordad-usuario">
         <label for="rememberUser">Recordar Usuario</label>
         <input type="checkbox" id="rememberUser" />
+
       </div>
-      <div class="checkboxcontainer">
-        <label for="staylogged">Mantenerse Logueado</label>
+      <div class="olvide-contraseña">
+        <label for="staylogged">Olvide contraseña</label>
         <input type="checkbox" id="staylogged" />
       </div>
-      <button type="submit">Ingresar</button>
-    </form>
-  </body>
+      <button class="btn-1" type="submit">Ingresar</button>
+  </form>
+  </div>
+  <footer class="footer">
+    <div class="footer-datos">
+      <div class="datos">
+        <ul class="datos">
+          <li>EL HALCON 900</li>
+          <li>Valle de Anisacate</li>
+          <li>Cordoba, Argentina</li>
+          <li>CP:5000</li>
+        </ul>
+      </div>
+      <nav class="nav-bar-footer">
+        <ul class="nav-link-footer">
+          <li><a href="#">Home</a></li>
+          <li><a href="#listaProductos">Productos</a></li>
+          <li><a href="#">Ayuda</a></li>
+          <li><a href="#">Contacto</a></li>
+        </ul>
+      </nav>
+      <div class="boton-suscripcion">
+        <p id="suscripcion">QUIERO SUSCRIBIRME AL NEWSLETTER</p>
+        <form action="/suscripcion">
+          <input type="text" placeholder="Correo electronico" />
+          <button type="submit">ENVIAR</button>
+        </form>
+      </div>
+    </div>
+    <div class="pie-de-pagina">
+      <p><small> 2023 WILF LIFE - Todos los derechos reservados </small></p>
+    </div>
+  </footer>
+</body>
+
 </html>

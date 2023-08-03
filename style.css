@@ -1,14 +1,23 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200&display=swap');
 * {
-  margin: 5px;
+  margin: 0;
   padding: 5px;
   box-sizing: border-box;
-  font-family: "Montserrat";
+  font-family: "Mukta";
 }
 body {
   background: #edede9;
 }
-
+/* .inicio-sesion{
+  background: linear-gradient(to top, rgb(0 0 0/00.5), rgb(0 0 0/00.5)),
+  url(imagenes/baner-login.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+} */
 .header {
   display: flex;
   flex-direction: row;
@@ -17,7 +26,7 @@ body {
   background: #718355;
   height: 150px;
   width: 100%;
-  padding: 5px;
+  padding: 0;
 }
 .header .logo {
   cursor: pointer;
@@ -59,21 +68,6 @@ body {
   font-weight: 900;
 }
 
-.header .btn button {
-  font-weight: 900;
-  font-size: 20px;
-  color: rgb(7, 72, 72);
-  padding: 1px 15px;
-  background: white;
-  border: none;
-  border-radius: 50px;
-  cursor: pointer;
-  transition: all 0.5s ease 0s;
-}
-.header .btn button:hover {
-  background: white;
-  transform: scale(1.1);
-}
 #h1 {
   color: rgb(19, 22, 13);
   font-size: 30px;
@@ -82,22 +76,24 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  text-align: center;
 }
 
 .banner {
   display: flex;
   flex-direction: column;
-  align-items: center ;
+  align-items: center;
   justify-content: center;
- background: linear-gradient(to top, rgb(0 0 0/00.5),rgb(0 0 0/00.5) ) ,url(BANNER.jpg) ;
- width: 100%;
+  background: linear-gradient(to top, rgb(0 0 0/00.5), rgb(0 0 0/00.5)),
+  url(BANNER.jpg);
+  width: 100%;
   height: 400px;
   background-repeat: no-repeat;
   background-position: center;
 }
 
-#texto-banner{
- text-align: center;
+#texto-banner {
+  text-align: center;
   width: 50%;
   font-size: 20px;
   font-weight: 900;
@@ -105,16 +101,49 @@ body {
   transition: all 0.5s;
 }
 
-#texto-banner:hover{ 
+#texto-banner:hover {
   transform: scale(1.15);
 }
-#listaProductos{
+#listaProductos {
   text-align: center;
+}
+.lista1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.button-menu{
+  background: none;
+  margin:5px;
+  color: white;
+  border: none;
+  font-size: 30px;
+  padding: 0 20px;
+  line-height: 60px;
+  display: none;
+}
+.lista1 div {
+  text-align: center;
+}
+
+.lista1 div li {
+  margin: -4px;
+  padding: 0px;
+}
+.marcas{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.marcas img{
+  width: 17.5%;
+background: none;
 }
 p {
   color: black;
-  margin: 10px;
-  font-size: 20px;
+  margin: 5px;
+  font-size: 16px;
   font-family: "Montserrat";
   font-weight: bold;
   align-items: center;
@@ -127,17 +156,17 @@ article img {
   border-color: rgba(1, 1, 19, 0.555);
 }
 
-.productos { 
-  display:flex;
+.productos {
+  display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
 
-.productos article p{ 
+.productos article p {
   text-align: center;
 }
 
-.productos  button {
+.productos button {
   font-weight: 900;
   font-size: 20px;
   color: rgb(7, 72, 72);
@@ -148,7 +177,173 @@ article img {
   cursor: pointer;
   transition: all 0.5s ease 0s;
 }
-.productos  button {
+.productos button {
   background: white;
   transform: scale(1.1);
+}
+
+.footer {
+  background-color: rgb(51, 66, 51);
+  height: 250px;
+}
+
+.footer .footer-datos{  
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+.nav-link-footer {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.footer .nav-link-footer a {
+  font-size: 15px;
+  padding: 2px;
+  color: white;
+}
+.nav-link-footer li:hover {
+  transform: scale(1.15);
+}
+
+.footer .nav-link-footer a {
+  text-decoration: none;
+}
+.footer .footer-datos .datos{
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.footer .footer-datos .datos li{
+  font-size: 15px;
+  padding: 2px;
+  color: white;
+}
+#suscripcion{
+  font-size: 15px;
+  padding: 2px;
+  color: white;
+
+}
+.pie-de-pagina {
+  tab-size: 5px;
+  text-align: end;
+  margin-top: -50px;
+}
+/* .login{
+  justify-content: left;
+  background: linear-gradient(to top, rgb(0 0 0/00.5), rgb(0 0 0/00.5)),
+  url(imagenes/baner-login.jpg);
+  width: 100%;
+  height: 600px;
+    background-size:cover;
+} */
+/* .contenedor-inicio{
+  display: flex;
+  flex-direction: column;
+  background: white;
+  width: 25%;
+  height: 600px;
+  align-items: center;
+  justify-content: right;
+}
+
+#texto-inicio{
+  text-align: center;
+  width: 50%;
+  font-size: 20px;
+} */
+
+/* A PARTIR DE ACA PARA DISPOSITIVOS MOVILES */
+
+@media (max-width:780px) {
+body{
+  padding: 0;
+  margin: 1px;
+}
+
+  .header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background: #718355;
+    height: 75px;
+    width: 100%;
+
+  }
+
+  #logo-img {
+    width: 100px;
+  }
+  
+  .button-menu{
+    display: block;
+    cursor: pointer;
+    }
+
+.item-button{
+      border-bottom: 1px white solid;
+    }  
+  
+  .nav-link {
+    list-style: none;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+    background: #454742;
+    position:fixed;
+    top: 85px;
+    width:100%;
+    left:100%;
+    transition: left 0.3s;
+
+  }
+  
+  .header .nav-link a {
+    font-size: 13px;
+    padding: 5px;
+    margin: 5px;
+    color: white;
+    text-align: center;
+  }
+
+.nav-link_visible{
+  left:0;
+}
+#h1 {
+  font-size: 20px;}
+.banner {
+  height:300px;}
+
+  .productos {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  main {
+    padding: 0px 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+article {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+img {
+  max-width: 100%;
+  object-fit: cover;
+}
+.textoCarpa{
+  width: 47.5%;
+ padding: 20px;
+ display: flex;
+ align-items: center;
+}
 }
