@@ -54,3 +54,5 @@
 ### **<span style="font-family:font-family: 'Pangolin', cursive; font-size:2em;"><span style = " COLOR:rgb(7, 72, 72)"> . COLOR BOTONES </span>**
 ;
 ### **<span style="font-family:font-family: 'Pangolin', cursive; font-size:2em;"><span style = "color: rgb(19, 22, 13)"> . OTRO COLOR  </span>**
+
+https://www.figma.com/file/eByBki28iR6iwcGceLhGbY/Untitled?type=design&node-id=101%3A82&mode=design&t=AIFvOl4lt6chSuV4-1
