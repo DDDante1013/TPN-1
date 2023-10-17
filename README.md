@@ -1,4 +1,4 @@
-<img src="LOGO.PNG" width="200" height="200"/>
+<img src="imagenes/LOGO.PNG" width="200" height="200"/>
  
  
 
